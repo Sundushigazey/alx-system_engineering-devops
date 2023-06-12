@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+echo "input string with c's and C's" | tr -d 'cC'
